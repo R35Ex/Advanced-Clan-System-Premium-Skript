@@ -1,6 +1,6 @@
 # Advanced-Clan-System-Premium-Skript
 
-<img width="1024" height="512" alt="Advanced Clans Thumbnail" src="https://github.com/user-attachments/assets/b2cb9cb6-83e5-44c7-a822-56d2c43db6b2" />
+<img width="1024" height="512" alt="Proyek_Baru_112_7BE30BA" src="https://github.com/user-attachments/assets/3090e561-bf67-4c01-bb60-f66359bf0558" />
 
   
 Advanced Clan System transforms your server into a highly competitive environment. With an automated Weekly Event Engine, Global Clan Buffs, a 10-Level Perk System, and a built-in Audit Log for admins, this is the only Clan Skript you will ever need.
@@ -98,7 +98,7 @@ Lv 9: Abyssal Efficiency (Haste II, Dolphin's Grace, +5 XP per kill).
 Lv 10 (MAX): Celestial Bloodlust (15% Lifesteal, $10 Kill Bonus, 2x XP).  
 
 📜 COMMAND LIST  
-🔹 Player Commands
+🔹 Player Commands  
 /clan - Opens the Main Interactive GUI.  
 /clan create <name> - Start your clan.  
 /clan top - View the live Weekly Leaderboard.  
