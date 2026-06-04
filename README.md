@@ -72,14 +72,15 @@ Server Owners: Easily change all Buff costs, Shop prices, and Event Point reward
   
 <img width="800" height="450" alt="2026-06-0218-53-03-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/68d6ab3c-41ba-44db-964c-cbd8adeed711" />
 <img width="800" height="450" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/938fd29a-0018-495d-afe1-cc465071535f" />
-  
+<img width="825" height="346" alt="Screenshot 2026-06-04 150525" src="https://github.com/user-attachments/assets/b1b51749-496d-4b52-8731-d8e2a5d44eea" />
+
 
 
   
 ### ✨ QUALITY OF LIFE & IMMERSION (The Small Details)  
 
 ⚔️ **Togglable Friendly Fire (PvP):*** Leaders can turn Clan PvP ON or OFF in the Settings GUI. If OFF, members cannot accidentally damage each other in combat!  
-🎨 ***Dynamic Chat Tags:*** Clan tags automatically appear in chat. As the clan levels up, the tag color upgrades (Level 5 = Aqua, Level 10 = Gold/Orange).  
+🎨 ***Chat Tags:*** Clan tags automatically appear in chat. As the clan levels up, the tag color upgrades (Level 5 = Add 5 custom color tag, Level 10 = total 13 custom color tag).  
 🔔 ***Sound & Title Notifications:*** Buying items triggers a satisfying "Ding!", leveling up the clan blasts a global "Level Up!" title to all members, and donating 10k points sends a "Level Up" sound to the whole clan.  
 🛡️ ***Anti-Exploit System:*** Players cannot "cheat" the Mining event by placing and breaking the same diamond ore over and over. The script intelligently tracks placed blocks!  
 💬 ***Clan Broadcast:*** Leaders can use `/clan broadcast` to send an urgent Title/Subtitle message across the screen of every online clan member.  
