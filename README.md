@@ -144,6 +144,7 @@ Lv 10 (MAX): Celestial Bloodlust (15% Lifesteal, $10 Kill Bonus, 2x XP).
 `/clanadmin forcejoin <player> <clan>` - Force a player into a specific clan without needing an invite.  
 `/clanadmin forcekick <player>` - Forcibly remove a disruptive player from their clan (bypassing leader permissions).  
 `/clanadmin disband <clan>` - Instantly and completely wipe a clan from the server, kicking all members and resetting their data.
+`/clanadmin vault <clan>` - To help Admin see the vault of clans
 
 ### 🛡️ SECURE ADMIN AUDIT LOG 🛡️  
 The script features a Passive Audit Trail. All high-value transactions (Buying Totems/End Crystals, Activating Buffs, and Admins giving free points) are secretly logged to plugins/Skript/scripts/clan_premium/audit.log for the Server Owner to review.
