@@ -8,7 +8,7 @@ Advanced Clan System transforms your server into a highly competitive environmen
   🚀 LAUNCH SALE! 🚀  
      > Get 25% OFF for the first few buyers!  
      > Use code: **827810-LAUNCHSALE** at checkout!  
-     > [**Download Link**]([https://github.com/SkriptLang/Skript/releases](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/?ref=discover))  
+     > [**Download Link**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/?ref=discover)  
   
 ### 🏆 Dynamic Weekly Contribution Event Engine  
 Clans don't just exist; they compete! 3 Days on every week, the server focuses on a different contribution event to get points:  
