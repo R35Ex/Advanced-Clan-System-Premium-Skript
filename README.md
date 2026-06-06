@@ -161,6 +161,6 @@ Built with modern Minecraft in mind! Zero legacy IDs used.
   [**SkBee**](https://github.com/ShaneBeee/SkBee/releases)  
 * Performance: 100% lag-free. Uses low-impact loops and metadata tracking.
   
-  
-  
+  Lets make your server more better with Advanced Clan System Premium !
+  [**Download Link**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/?ref=discover)  
 
