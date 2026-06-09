@@ -5,10 +5,6 @@
   
 Advanced Clan System transforms your server into a highly competitive environment. With an automated Weekly Event Engine, Global Clan Buffs, a 10-Level Perk System, and a built-in Audit Log for admins, this is the only Clan Skript you will ever need.
   
-  🚀 LAUNCH SALE! 🚀  
-     > Get $1.50 OFF for the first 10 buyers!  
-     > Use code: **827810-LAUNCHSALE** at checkout!  
-     > [**Download Link**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/?ref=discover)  
   
 ### 🏆 Dynamic Weekly Contribution Event Engine  
 Clans don't just exist; they compete! 3 Days on every week, the server focuses on a different contribution event to get points:  
